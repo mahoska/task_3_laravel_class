@@ -1,0 +1,42 @@
+*{
+    font-family: Arial;  
+    padding:0;
+    margin: 0;
+}
+
+
+
+.clearfix:after{
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+
+.starter-template{
+    padding: 40px 50px;
+}
+
+
+
+
+
+.footer{
+    position:absolute;
+    bottom:50px;
+    width:90%;
+    font-weight: bold;
+    text-align: center;
+    color:white;
+}
+
+
+
+
+
+
+
+.small{
+    font-size:10px;
+}
