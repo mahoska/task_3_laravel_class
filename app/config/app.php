@@ -26,8 +26,8 @@ return array(
 	|
 	*/
 
-	//'url' => 'http://192.168.0.15/~user6/tinyurl/',
-        'url' => 'http://localhost::88/tinyurl/public/',
+	'url' => 'http://192.168.0.15/~user15/tinyurl/',
+        //'url' => 'http://localhost::88/tinyurl/public/',
 
 	/*
 	|--------------------------------------------------------------------------
